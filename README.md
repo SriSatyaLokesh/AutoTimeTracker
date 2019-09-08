@@ -4,6 +4,9 @@
 ### Sub Goals :
    ##### Differentiate between projects (even time sepent on differennt projects with in same app)
    ##### Differentiate between time spent on sites while browsing
+### Focus :
+   ##### Track time spent on Email
+   ##### Track time spent on VS code
 #### Things to be done
 - [ ] Need to monitor the activity
    - [ ] need to monitor which app is being used
