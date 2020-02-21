@@ -8,7 +8,7 @@
    ##### Track time spent on Email
    ##### Track time spent on VS code
 #### Things to be done
-- [ ] Need to monitor the activity
+- [.] Need to monitor the activity
    - [ ] need to monitor which app is being used
    - [ ] need to monitor which website is being used
 - [ ] Start timer when user opens an app or a website
